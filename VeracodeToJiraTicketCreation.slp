@@ -62,6 +62,14 @@
                 "view_type": {
                     "value": "document"
                 }
+            },
+            "11111111-1111-1111-1111-000000000004_output0": {
+                "label": {
+                    "value": "JIRA Search - output0"
+                },
+                "view_type": {
+                    "value": "document"
+                }
             }
         },
         "settings": {
@@ -528,7 +536,7 @@
                 },
                 "settings": {
                     "execution_mode": {
-                        "value": "Disabled"
+                        "value": "Validate & Execute"
                     },
                     "expand": {
                         "expression": false,
