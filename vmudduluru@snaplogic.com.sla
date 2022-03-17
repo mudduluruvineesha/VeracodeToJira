@@ -1,0 +1,34 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restawsv4account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "ConnectFasterInc"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "vmudduluru@snaplogic.com"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "accessKeyId": {
+                "fp": "f7c9bca3cdb1d909994d00c87d300e1b5c16ef6881068c031269b72e8ba6d463",
+                "key": "account-cloud-managed-5592aed995315c0d2e1aaeeb-2015-06-30T14:59:59-654446",
+                "sym_iv": "8d0yGf+a8T5J2UAypmQ5FQ==",
+                "sym_key": "kzFOMYMNIf3kQUMmUWi29f00c+BNUjABL8JUbQUxE3VqnWxxxAQEaZbB7FSjBf6SMQc+LSbm1S7+EM6k9BItR1yh2XKEtOK54rC17DE/HKA9wa24sG3X6tUG3RUGJxCB07GyInBkmQ5vxhnwiHmTc+K4w0xhgQ9cX53UvAOCbcNGaHYi8rfW/t8cBWUHeI8ctYlOs5lQCld9+HePZlFDBFOEBBi+gHWbOjqhjskpXsyrfvgLjGMxU4zInNJxmQyyiih5aASbbToewcKAfLOrOENzzbI4fxekTjXUsWtqwwdj7bbgW4/Bqft9kyCpct/4/fRwO3i3IBWh2hsWf7/9uA==",
+                "value": "FR2IeJJHlwP6BdFaFNMDMMpK6lXKTPSv0qc5MyV8U+7FpMbBWiK134mwvJDE7xDQ"
+            },
+            "secretKey": {
+                "fp": "f7c9bca3cdb1d909994d00c87d300e1b5c16ef6881068c031269b72e8ba6d463",
+                "key": "account-cloud-managed-5592aed995315c0d2e1aaeeb-2015-06-30T14:59:59-654446",
+                "sym_iv": "hmjcEVQ0GbSrUfJK1tFkhQ==",
+                "sym_key": "jsM3tlqQDcEmlEZfA80KJWr+hYBZrwIyg6vnIGnLYmJpC0tubRx+Z/obEMrZyXs+W6UCNRPACQq3RIXXFvlzexrNQ/cTjGhFXcoxYTQOkvDo3cRon+UqLOGk3o4hD4ohxj61S2swxBIUG9SbW1Qa4cRXiHjF9BwZXyCbUURRWQmPYzTCot7ygxGs5bDC54qf2IpEyxN0XQ0kG67Z7s5e7wkndUfIvqfvlmenl2CZcJcFxr+2p/sovfaa0P58UKOK3FdW9LwlwoVlv20PLsE8aprKobbj5KS0gxqrrpJZRsYdzvCRAM5AS6ys/B1VIe9ClfgRnZ3aFgPMe1RMYEh+og==",
+                "value": "IU/GMfZgpf1VbPdxabQEUBXJyVvo08j+g+S4Rac79Pke/L08ICC5p2GnvZ98IIOQVVf/RX0MFAUwHYXdYZJHQAf3JQtnLClRHY6opB2Hvp6anc+ETyVZqMZILXCGLI6OwOgDGU2JUC1EmgmVdxe3tFNb37Vsc+KiKHWBsT6qZLqqEPcoWegex2pb/gwoo2i8"
+            }
+        },
+        "view_serial": 100
+    }
+}
